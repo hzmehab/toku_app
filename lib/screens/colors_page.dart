@@ -19,7 +19,7 @@ class ColorsPage extends StatelessWidget {
       enName: 'Brown',
     ),
     ItemModel(
-      sound: 'sounds/colors/dusty yellow.wav',
+      sound: 'sounds/colors/dusty_yellow.wav',
       image: 'assets/images/colors/color_dusty_yellow.png',
       jpName: 'San',
       enName: 'Dusty Yellow',
